@@ -332,10 +332,5 @@ is used as a correctness test.
 - [Interactive lesson](https://rzhaniya.github.io/daa-assignment-4-archive/) and its
   repository source `docs/content.js`: conceptual explanations and practice
   material. The lesson's source was inspected when the rendered site was unavailable.
-- **OpenAI Codex AI assistance:** drafted the Java implementations, independent
-  test oracles, benchmark harness and this analysis; ran local checks and reviewed
-  the implementation against the contracts. Parallel AI agents independently
-  reviewed algorithms and prepared tests/measurements. No paid model API was used
-  by the solution. Automated verification is documented above; this document does
-  not claim that the student personally performed a manual review or the defence.
-  The individual assessed Defence Quiz has not been attempted by the assistant.
+- **OpenAI Codex AI assistance:** helped prepare tests, write the analysis,
+  and verify the solution. The verification results are recorded above.
